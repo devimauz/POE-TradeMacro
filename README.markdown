@@ -5,6 +5,8 @@
 
 -----------------------------------
 
+UP TO DATE!
+
 Welcome to POE-TradeMacro!
 
 **PoE TradeMacro** is an Autohotkey (AHK) script that provides several convenient QoL features for Path of Exile Trading.
